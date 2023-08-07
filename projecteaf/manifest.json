@@ -1,0 +1,2 @@
+instr.OSC:in1 in midi out1 out audio
+fx.Bitcrush:in1 in audio out1 out audio
